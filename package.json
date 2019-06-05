@@ -1,0 +1,19 @@
+{
+  "name": "abi",
+  "version": "1.0.0",
+  "description": "VeChain Contract ABI Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianbin/abi.git"
+  },
+  "author": "qianbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianbin/abi/issues"
+  },
+  "homepage": "https://github.com/qianbin/abi#readme"
+}
